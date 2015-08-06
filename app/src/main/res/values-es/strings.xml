@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MessingAround-ES</string>
+
+    <string name="hello_world">Hola world!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="random_text">More random text???</string>
+    <string name="goodbye_android_text">Goodbye you crazy Android app!!!</string>
+    <string name="first_button_text">1st Button</string>
+    <string name="second_button_text">2nd Button</string>
+    <string name="third_button_text">3rd Button</string>
+
+</resources>
